@@ -1,0 +1,1 @@
+kanna: bash run
