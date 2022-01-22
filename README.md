@@ -1,4 +1,4 @@
-<center>
+
 ## KannaX - Deoloy
 
 Repositório template para deploy do KannaX
