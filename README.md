@@ -5,7 +5,7 @@ Repositório template para deploy do KannaX
 
 ## Como usar
 
-* Faça fork deste repositório.
+* Faça fork deste repositório ou use o template.
 * Copie o link do seu repositório.
 * Clique no botão abaixo e edite a URL inserindo o link do seu repositório após  "?template= "
 
